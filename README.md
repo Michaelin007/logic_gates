@@ -1,3 +1,3 @@
 # logic_gates
 
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Michaelin007/logic_gates/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Michaelin007/logic_gates/tree/master)
